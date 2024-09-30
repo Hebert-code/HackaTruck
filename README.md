@@ -1,4 +1,4 @@
-# 🚚 Hackatruck Swift Project 🏆
+#ⒾⒷⓂ 🚚 Hackatruck Swift Project 🏆
 
 Bem-vindo ao meu repositório do **Hackatruck**! Este espaço é dedicado a documentar meu aprendizado e desenvolvimento em **Swift** e **SwiftUI** ao longo do programa.
 
@@ -31,3 +31,5 @@ Para executar os projetos, siga estas etapas:
 2. Clone este repositório:
    ```bash
    git clone https://github.com/seu_usuario/HackaTruck.git
+
+## Resultados
