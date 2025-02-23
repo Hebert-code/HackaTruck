@@ -22,6 +22,12 @@ Este repositório contém o seguinte conteúdo:
 - **Aula 04 - Desafio 2**: Integração do **NavigationStack** com **NavigationLink**.
 - **Aula 05**: Clone do Spotify, aplicando **NavigationStack**, variáveis e laços de repetição.
 - **Aula 06**: Exploração do uso de **Maps** no SwiftUI.
+- **Aula 07**: Aula prática de SwiftUI com integração ao **Node-RED** e **Cloudant**.
+- **Aula 08**: Continuação da prática de SwiftUI com **Node-RED** e **Cloudant**.
+
+## 🎥 Vídeos das Aulas
+
+Para cada aula, foi gravado um vídeo demonstrando o que foi desenvolvido. Esses vídeos estão disponíveis neste repositório, organizados por aula. Eles mostram o resultados finais de cada projeto.
 
 ## 🚀 Como Executar
 
@@ -30,6 +36,7 @@ Para executar os projetos, siga estas etapas:
 1. Certifique-se de ter o [Xcode](https://developer.apple.com/xcode/) instalado.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/seu_usuario/HackaTruck.git
-
-## Resultados
+   git clone https://github.com/Hebert-code/HackaTruck.git
+   ```
+3. Abra o projeto desejado no Xcode.
+4. Execute o projeto no simulador ou em um dispositivo físico.
